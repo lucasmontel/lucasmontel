@@ -17,8 +17,13 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <img align="center" alt="Rafa-boot-strap" height="30" width="40" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png">
+  <img align="center" alt="mongodb" height="40" width="50" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png">
+  
+ <img align="center" alt="mysql" height="40" width="60" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png">
+  <img align="center" alt="node" height="40" width="40" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png">
   
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.pngall.com/wp-content/uploads/4/I-Am-Groot.png">
+  
 </div>
   
   ##
