@@ -1,4 +1,4 @@
-## Olá, eu sou Lucas Montel, e sou estudante de programação Front-End 
+## Olá, eu sou Lucas Montel, e sou estudante de programação Back-End 
 
 <div align="center">
   <a href="https://github.com/lucasmontel">
